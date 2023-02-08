@@ -1,0 +1,25 @@
+//Array 
+
+1. copyWithin() - Copies array elements within the array, to and from specified positions
+2. fill() - Fill the elements in an array with a static value
+3. every() - Checks if every element in an array pass a test
+4. map() - Creates a new array with the result of calling a function for each array element
+5. reverse() - Reverses the order of the elements in an array
+6. from() - Creates an array from an object
+7. keys() - Returns a Array Iteration Object, containing the keys of the original array
+8. reduce() - Reduce the values of an array to a single value (going left-to-right)
+9. reduceRight() - Reduce the values of an array to a single value (going right-to-left)
+10. sort() - Sorts the elements of an array
+
+//Object
+
+1. entries() - This method returns an array with arrays of the key, value pairs.
+2. freeze() - This method prevents existing properties from being removed.
+3.  isFrozen() - This method determines if an object was frozen.
+4. is() - This method determines whether two values are the same value.
+5. keys() - This method returns an array of a given object's own property names.
+6. values() - This method returns an array of values.
+7. seal() - This method prevents new properties from being added and marks all existing properties as non-configurable.
+8. isSealed() - This method determines if an object is sealed.
+9. assign() - This method is used to copy enumerable and own properties from a source object to a target object
+10. create() - This method is used to create a new object with the specified prototype object and properties.
